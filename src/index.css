@@ -4,6 +4,9 @@ Variables
 ===============
 */
 
+/* src/index.css */
+@import "tailwindcss";
+
 :root {
   /* dark shades of primary color*/
   --clr-primary-1: hsl(162, 61%, 89%);

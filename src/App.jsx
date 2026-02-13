@@ -1,14 +1,14 @@
+import List from "./List";
 
 function App() {
 
   return (
     <>
-     <div>
-      <h1>Hello</h1>
-      <p>hi</p>
-     </div>
+      <div className="container">
+        <List />
+      </div>
     </>
-  )
+  );
 }
 
 export default App
